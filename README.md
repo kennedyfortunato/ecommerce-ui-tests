@@ -43,7 +43,7 @@ The project uses the Page Object Model pattern to structure the tests, encapsula
 1. Clone the repository:
 
 ```
-git clone <REPOSITORY_URL>
+git clone git@github.com:kennedyfortunato/ecommerce-ui-tests.git
 ```
 
 2. Install dependencies:
